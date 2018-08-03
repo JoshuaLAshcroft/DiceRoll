@@ -13,3 +13,6 @@ while True:
         print(number)
     else:
         exit()
+
+        
+        
